@@ -47,7 +47,6 @@
   font-family: var(--font-accent);
   font-size: var(--logo-size);
   font-weight: 400;
-  line-height: 1.2;
   color: #000;
   margin: 0;
   line-height: 1.1;
@@ -189,7 +188,6 @@
   cursor: pointer;
   display: flex;
   align-items: center;
-  border: 2px solid transparent;
   outline: none;
   transition: border-color 0.3s ease;
 }
@@ -212,7 +210,6 @@
   cursor: pointer;
   font-family: var(--font-accent);
   font-size: 14px;
-  display: flex;
   align-items: center;
   justify-content: center;
   padding: 10px 0;
